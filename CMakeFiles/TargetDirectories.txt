@@ -1,0 +1,5 @@
+/home/luis/Documentos/Universidad/MIARFID/TIA/Recubrimiento2D/CMakeFiles/rebuild_cache.dir
+/home/luis/Documentos/Universidad/MIARFID/TIA/Recubrimiento2D/CMakeFiles/edit_cache.dir
+/home/luis/Documentos/Universidad/MIARFID/TIA/Recubrimiento2D/src/CMakeFiles/rebuild_cache.dir
+/home/luis/Documentos/Universidad/MIARFID/TIA/Recubrimiento2D/src/CMakeFiles/Laucher.dir
+/home/luis/Documentos/Universidad/MIARFID/TIA/Recubrimiento2D/src/CMakeFiles/edit_cache.dir

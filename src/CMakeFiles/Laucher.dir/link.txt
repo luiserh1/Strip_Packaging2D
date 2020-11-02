@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Laucher.dir/main.cpp.o CMakeFiles/Laucher.dir/spp_tests.cpp.o CMakeFiles/Laucher.dir/blocks.cpp.o CMakeFiles/Laucher.dir/spp_genetic.cpp.o CMakeFiles/Laucher.dir/spp_gfx_rep.cpp.o CMakeFiles/Laucher.dir/spp_individual.cpp.o CMakeFiles/Laucher.dir/glad.c.o  -o ../bin/Laucher -lglfw -lrt -lm -ldl -lX11 -lpthread 
